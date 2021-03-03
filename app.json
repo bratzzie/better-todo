@@ -1,0 +1,12 @@
+{
+  "name": "better-todo",
+  "displayName": "better-todo",
+  "expo": {
+    "name": "better-todo",
+    "slug": "better-todo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
